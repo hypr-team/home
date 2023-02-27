@@ -1,0 +1,3 @@
+[submodule "mods/hap/worker"]
+	path = mods/hap/worker
+	url = git@github.com:hypr-team/hap.git
